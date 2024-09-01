@@ -1,0 +1,2 @@
+lsblk
+echo "hello"
